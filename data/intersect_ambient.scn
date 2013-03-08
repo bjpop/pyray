@@ -1,0 +1,15 @@
+surface 1 0.3 0 0 0 0.3 0.3 1
+plane 0 0 200 0 0 -1
+light 1 100 -100 0
+surface 0 0.3 0 0 0 0 1 0
+sphere 100 0 0 200 
+surface 0 0.3 0 0 0 1 1 0
+sphere 40 0 -100 180 
+sphere 40 0 100 180 
+surface 0 0.3 0 0 0 1 0 0
+sphere 20 70.71 0 129.28 
+surface 0 0.3 0 0 0 0 0 1
+sphere 20 -70.71 0 129.28 
+surface 0 0.3 0 0 0 1 0 1
+sphere 10 0 -140 180 
+sphere 10 0 140 180 

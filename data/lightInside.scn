@@ -1,0 +1,13 @@
+light 1 0 0 200
+surface 0 0.3 0.4 0.4 50 0 1 0
+sphere 30 -100 0 100 
+surface 0 0.3 0.4 0.4 50 1 0 0
+sphere 30  100 0 100 
+surface 0 0.3 0.4 0.4 50 0 0 1
+sphere 30 -100 0 300 
+surface 0 0.3 0.4 0.4 50 0 1 1
+sphere 30  100 0 300 
+surface 0 0.3 0.6 0.4 50 0.7 0.3 0.1
+sphere 30 0 -100 200 
+surface 0 0.3 0.6 0.4 50 0.1 0.5 0.7
+sphere 30 0 100 200 
